@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "delay.h": "c",
+        "print.h": "c"
+    }
+}
